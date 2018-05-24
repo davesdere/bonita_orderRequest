@@ -4,4 +4,4 @@ Le système implémente aussi une base de donnée SQL pour préserver l'intégri
 Le processus avant le projet
 ![BPMNFINAL](https://github.com/davesdere/bonita_orderRequest/blob/master/BPMN_beforeOpt.png)
 Une fois connecté au site snipcart
-![BPMNFINAL](https://github.com/davesdere/bonita_orderRequest/blob/master/BPMN_final.png)
+![BPMNFINAL](https://github.com/davesdere/bonita_orderRequest/blob/master/BPMN_final2.png)
